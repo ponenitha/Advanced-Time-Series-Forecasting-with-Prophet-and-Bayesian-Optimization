@@ -1,0 +1,8 @@
+ADF Statistic: 0.3983
+ADF p-value: 0.9814
+
+            Model Horizon       RMSE        MAE     MAPE
+ Baseline_Prophet   7-day 339.597263 338.438536 5.052865
+ Baseline_Prophet  30-day 345.721103 340.831182 5.073564
+Optimized_Prophet   7-day 282.776812 281.500757 4.202584
+Optimized_Prophet  30-day 284.595875 278.728657 4.147692
